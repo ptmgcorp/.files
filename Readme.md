@@ -70,7 +70,7 @@ mkdir -p ~/.config
 wget https://raw.githubusercontent.com/ptmgcorp/.files/main/.config/starship.toml -P ~/.config/
 ```
 
-#### Script to bat converter
+# Script to bat converter
 ```
 https://daniel-sc.github.io/bash-shell-to-bat-converter/
 ```
