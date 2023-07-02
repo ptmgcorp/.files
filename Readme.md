@@ -1,4 +1,5 @@
 # Starship Terminal
+### Installation
 <details>
 <summary>Linux</summary>
 
@@ -61,3 +62,10 @@ Invoke-Expression (&starship init powershell)
 </details>
 
 </details>
+
+### Configuration
+To get started configuring starship, create the following file: ~/.config/starship.toml.
+```
+mkdir -p ~/.config
+wget https://raw.githubusercontent.com/ptmgcorp/.files/main/.config/starship.toml -P ~/.config/
+```
