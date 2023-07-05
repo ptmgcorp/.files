@@ -10,7 +10,7 @@ curl -sS https://starship.rs/install.sh | sh
 ### Step 2. Set up your shell to use Starship
 Add the following to the end of `~/.bashrc`:
 ```sh
-echo 'eval "$(starship init bash)"" >> ~/.bashrc
+echo 'eval "$(starship init bash)"' >> ~/.bashrc
 ```
 </details>
 
